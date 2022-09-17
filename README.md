@@ -5,3 +5,12 @@
 - 💬 &nbsp; ...
 - 👨‍💻 &nbsp; ...
 - ⚡ &nbsp;Fun fact: There is no way.
+
+<details>
+  <summary>Click!</summary>
+  
+```python
+def func():
+    return "Hello, world!"
+```
+</details>
