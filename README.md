@@ -4,7 +4,6 @@
 - 🌱 &nbsp;I’m currently learning math, 
 - 💬 &nbsp; ...
 - 👨‍💻 &nbsp; ...
-- ⚡ &nbsp;Fun fact: There is no way.
 
 <details>
   <summary>Click!</summary>
